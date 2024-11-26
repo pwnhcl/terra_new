@@ -1,0 +1,8 @@
+.terraform/
+.terraform.lock.hcl
+access_key.txt
+aws_key_pair.pem
+id_rsa
+id_rsa.pub
+terraform.tfstate
+terraform.tfstate.backup
